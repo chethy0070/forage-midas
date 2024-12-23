@@ -20,45 +20,45 @@
 			<!-- Spring Boot Starter Data JPA -->
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-starter-data-jpa</artifactId>
+				<artifactId>Spring-boot-starter-data-jpa from org.springframework.boot - 3.2.5</artifactId>
 				<version>3.2.5</version>
 			</dependency>
 			<!-- Spring Boot Starter Web -->
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-starter-web</artifactId>
+				<artifactId>Spring-boot-starter-web from org.springframework.boot - 3.2.5</artifactId>
 				<version>3.2.5</version>
 			</dependency>
 			<!-- Spring Kafka -->
 			<dependency>
 				<groupId>org.springframework.kafka</groupId>
-				<artifactId>spring-kafka</artifactId>
+				<artifactId>Spring-kafka from org.springframework.kafka - 3.1.4</artifactId>
 				<version>3.1.4</version>
 			</dependency>
 			<!-- H2 Database -->
 			<dependency>
 				<groupId>com.h2database</groupId>
-				<artifactId>h2</artifactId>
+				<artifactId>H2 from com.h2database - 2.2.224</artifactId>
 				<version>2.2.224</version>
 			</dependency>
 			<!-- Spring Boot Starter Test -->
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-starter-test</artifactId>
+				<artifactId>Spring-boot-starter-test from org.springframework.boot - 3.2.5</artifactId>
 				<version>3.2.5</version>
 				<scope>test</scope>
 			</dependency>
 			<!-- Spring Kafka Test -->
 			<dependency>
 				<groupId>org.springframework.kafka</groupId>
-				<artifactId>spring-kafka-test</artifactId>
+				<artifactId>Spring-kafka-test from org.springframework.kafka - 3.1.4</artifactId>
 				<version>3.1.4</version>
 				<scope>test</scope>
 			</dependency>
 			<!-- Testcontainers Kafka -->
 			<dependency>
 				<groupId>org.testcontainers</groupId>
-				<artifactId>kafka</artifactId>
+				<artifactId>Kafka from org.testcontainers - 1.19.1</artifactId>
 				<version>1.19.1</version>
 				<scope>test</scope>
 			</dependency>
